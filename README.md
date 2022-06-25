@@ -1,4 +1,4 @@
-### validando-cpf com javascript 🖼
+## 💡 Cálculo do dígito verificador do CPF 📄
 
 - ![image](https://user-images.githubusercontent.com/69175890/175751821-27425b5c-8e03-4b40-ad6b-baa3db4915fe.png)
 
